@@ -1,0 +1,45 @@
+#mainDiv {
+  width: 80%;
+  text-align: center;
+  margin: 4rem auto;
+  font-family: 'Times New Roman', Times, serif;
+  box-shadow: 0px 0px 0.3rem  rgba(52, 56, 52, 1);
+  padding: 2rem;
+  border-radius: 0.5rem;
+}
+
+.bt1, .bt2 {
+  height: 2.8rem;
+  width: 6rem;
+  border-radius: 0.6rem;
+  margin-left: 0.5rem;
+  border: 1px solid transparent;
+  background: rgba(208, 143, 25, 1);
+  text-align: center;
+}
+
+.cssCopy{
+  width: 60%;
+  box-shadow: 0px 2px 12rem rgba(241, 248, 251,1);
+  border-left: 4px solid #71730A;
+  border-radius: 0.5rem;
+   margin: 0.5rem auto;
+   padding: 0.5rem;
+   color: #794622;
+}
+
+h5{
+  color: #1BE9F0;
+}
+
+.p{
+  width: 60%;
+  border-left: 0.2rem solid rgba(180, 138, 53, 1);
+  margin: 1.4rem auto;
+  text-align: center;
+  box-shadow: 1px 1px 12rem rgba(52, 56, 52, 1);
+  padding: 0.6rem;
+  border-radius: 0.5rem;
+  margin: 2rem auto;
+}
+
